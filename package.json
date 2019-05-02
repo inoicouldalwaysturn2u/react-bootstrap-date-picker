@@ -17,8 +17,7 @@
     "test": "test"
   },
   "peerDependencies": {
-    "react": ">=0.14.0",
-    "react-bootstrap": "^0.31.0"
+    "react": ">=0.14.0"
   },
   "devDependencies": {
     "assert": "^1.4.1",
@@ -55,7 +54,7 @@
     "node-uuid": "^1.4.7",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
-    "react-bootstrap": "^0.31.0",
+    "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^15.5.4",
     "regenerator": "^0.8.46",
     "regenerator-loader": "^3.1.0",
@@ -79,5 +78,6 @@
   "bugs": {
     "url": "https://github.com/pushtell/react-bootstrap-date-picker/issues"
   },
-  "homepage": "https://github.com/pushtell/react-bootstrap-date-picker#readme"
+  "homepage": "https://github.com/pushtell/react-bootstrap-date-picker#readme",
+  "dependencies": {}
 }
