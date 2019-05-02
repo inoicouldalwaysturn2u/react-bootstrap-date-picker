@@ -1,16 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Grid from 'react-bootstrap/lib/Grid';
-import Row from 'react-bootstrap/lib/Row';
-import Col from 'react-bootstrap/lib/Col';
+import Grid from 'react-bootstrap/Grid';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 import { Form, Navbar, Button } from 'react-bootstrap';
-import Nav from 'react-bootstrap/lib/Nav';
-import NavItem from 'react-bootstrap/lib/NavItem';
+import Nav from 'react-bootstrap/Nav';
+import NavItem from 'react-bootstrap/NavItem';
 import DatePicker from '../src/index.jsx';
-import Glyphicon from 'react-bootstrap/lib/Glyphicon';
-import FormGroup from 'react-bootstrap/lib/FormGroup';
-import ControlLabel from 'react-bootstrap/lib/ControlLabel';
-import HelpBlock from 'react-bootstrap/lib/HelpBlock';
+import Glyphicon from 'react-bootstrap/Glyphicon';
+import FormGroup from 'react-bootstrap/FormGroup';
+import ControlLabel from 'react-bootstrap/ControlLabel';
+import HelpBlock from 'react-bootstrap/HelpBlock';
 import createReactClass from 'create-react-class';
 
 const spanishDayLabels = ['Dom', 'Lu', 'Ma', 'Mx', 'Ju', 'Vi', 'Sab'];
